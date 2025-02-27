@@ -1,0 +1,2 @@
+# banned.opplegget.no
+Opplegg
